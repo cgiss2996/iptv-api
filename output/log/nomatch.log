@@ -37,6 +37,7 @@ Chuzhou Science & Education Channel (400p),http://live.cztv.cc:85/live/sjpd.m3u8
 CND Film Discovery Channel (576p),http://125.210.152.18:9090/live/FXZL_750.m3u8
 CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 Documentary Humanities Channel (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Dunhuang TV (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
 Fengshang Shopping Channel (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
@@ -85,3 +86,18 @@ Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city
 Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
 like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV (960p),https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 Ningxia Satellite Channel (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+Pingxiang TV News Channel (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+Qinghai TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+Shandong Satellite TV (720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
+Shandong TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+Shandong TV Agricultural Science Channel (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+Shandong TV Children's Channel (406p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/sepd.m3u8
+Shandong TV Life Channel (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/shpd.m3u8
+Shandong TV Qilu Channel (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+Shandong TV Sports Channel (1080p) [Geo-blocked],http://livealone302.iqilu.com/iqilu/typd.m3u8
